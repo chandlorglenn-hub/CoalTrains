@@ -38,7 +38,7 @@ footer = ""
 # The full-screen image or video behind the title. Use a .jpg/.png for an
 # image or an .mp4 for a short, silent, looping video. Leave it empty for a
 # solid block of screen_color.
-background = ""
+background = "coal_train_test"
 # background = "hero.jpg"
 # background = "hero-loop.mp4"
 # Still image shown while a background video loads (strongly recommended for video).
