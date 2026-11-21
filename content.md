@@ -12,7 +12,7 @@ Start writing your story here. Replace this paragraph with your own words. Every
 embed: pullquote
 cite: Someone you interviewed
 
-A memorable sentence from your reporting, pulled out of the story so it stands on its own.
+We don't want no stanking coal train in our towns!.
 ```
 
 A code block like the one above is how you place a pull quote, photo, chart, video, timeline, map or pop-up in the story. Text before it and after it flows around the media, so write your paragraphs, drop in a code block wherever an embed belongs, and keep writing. The README lists every kind of embed and its options, and the demo story shows them all in action.
