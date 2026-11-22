@@ -6,7 +6,7 @@ content_url = ""
 title = "Coal Trains"
 tagline = "A sentence or two that sets up the story and makes the reader want to scroll."
 byline = "Mary Mijares and team"
-date = ""
+date = "Due Dec 2026"
 # Short summary used by search engines and social media previews.
 description = ""
 language = "en"
@@ -33,7 +33,7 @@ poster = ""
 # "center", "top", "bottom", "left", "right", or e.g. "30% 60%".
 background_position = "center"
 # A tinted layer between the image and the text, so the text stays readable.
-screen_color = "#000000"
+screen_color = "#000001"
 screen_opacity = 0.45
 # Where the title sits: top-left, top-center, top-right, middle-left,
 # middle-center, middle-right, bottom-left, bottom-center, bottom-right.
