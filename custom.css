@@ -30,3 +30,17 @@
     border-width: 6px;
   }
 }
+.title { display: inline-block; }
+.title:hover { animation: hop .4s ease; }   /* whole title jumps */
+
+.letter { display: inline-block; }
+.letter:hover { animation: hop .4s ease; }  /* single letters jump */
+
+@keyframes hop {
+  0%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-.25em); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .title:hover, .letter:hover { animation: none; }
+}
