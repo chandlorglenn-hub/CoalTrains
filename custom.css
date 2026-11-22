@@ -30,11 +30,8 @@
     border-width: 6px;
   }
 }
-.title { display: inline-block; }
-.title:hover { animation: hop .4s ease; }   /* whole title jumps */
-
-.letter { display: inline-block; }
-.letter:hover { animation: hop .4s ease; }  /* single letters jump */
+h1 { display: inline-block; }
+h1:hover { animation: hop .4s ease; }
 
 @keyframes hop {
   0%, 100% { transform: translateY(0); }
@@ -42,5 +39,5 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .title:hover, .letter:hover { animation: none; }
+  h1:hover { animation: none; }
 }
