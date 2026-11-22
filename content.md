@@ -6,7 +6,7 @@
   This note is a hidden comment and never appears on the website.
 -->
 
-Start writing your story here. Replace this paragraph with your own words. Everything you type in this file appears in the reading column below the opener, and the title, tagline and byline come from settings.toml.
+THE NOTES FROM THIS ARE AT THE 11 MIN MARK OF JEREMY'S VIDEO SO WE CAN COME BACK TO THIS WHEN WERE READY TO ADD WHAT WE NEED TO ADD. 
 
 ```
 embed: pullquote
@@ -15,4 +15,4 @@ cite: Someone you interviewed
 We don't want no stanking coal train in our towns!.
 ```
 
-A code block like the one above is how you place a pull quote, photo, chart, video, timeline, map or pop-up in the story. Text before it and after it flows around the media, so write your paragraphs, drop in a code block wherever an embed belongs, and keep writing. The README lists every kind of embed and its options, and the demo story shows them all in action.
+ALSO COAL TRAINS ARE SMELLY AND STUPID!
